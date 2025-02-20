@@ -9,7 +9,7 @@ $notifications_count = optional(auth()->user())->unreadNotifications->count();
                     <img  src="{{asset(setting('mini_logo'))}}" height="30" alt="{{ app_name() }}">
                 </div>
                 <div class="logo-normal">
-                    <img  src="{{asset(setting('logo'))}}" height="30" alt="{{ app_name() }}">
+                    <img  src="{{asset(setting('logo'))}}" height="90" alt="{{ app_name() }}">
                     {{-- <h4 class="logo-title d-none d-sm-block">{{app_name()}}</h4> --}}
                 </div>
             </div>

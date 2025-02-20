@@ -1,1 +1,1 @@
-<img src="{{ asset(setting('logo')) }}" class="img-fluid h-4 mb-4">
+<img src="{{ asset(setting('logo')) }}" class="img-fluid mb-4" style="height: 90px !important;">
