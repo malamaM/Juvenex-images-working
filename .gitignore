@@ -30,17 +30,17 @@ Below Comments For Design Style & Scripts
 # !/public/js/core/.gitkeep
 >>>>>>> development
 
-/public/js/*.js*
-!/public/js/.gitkeep
+# /public/js/*.js*
+# !/public/js/.gitkeep
 
-/public/js/iqonic-script/*.min.js*
-!/public/js/iqonic-script/.gitkeep
-!/public/js/setting-init.js
+# /public/js/iqonic-script/*.min.js*
+# !/public/js/iqonic-script/.gitkeep
+# !/public/js/setting-init.js
 
 <<<<<<< HEAD
-/public/modules/**/*
-!/public/modules/.gitkeep
-/public/mix-manifest.json
+# /public/modules/**/*
+# !/public/modules/.gitkeep
+# /public/mix-manifest.json
 =======
 # /public/modules/**/*
 # !/public/modules/.gitkeep
@@ -52,5 +52,5 @@ Below Comments For Design Style & Scripts
 >>>>>>> development
 node_modules
 node_modules
-/storage/media-library/**/*
+# /storage/media-library/**/*
 .vercel
